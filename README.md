@@ -40,17 +40,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=w1nngs&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w1nngs&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🔭 Currently
 
 - 🚀 Working on **Aether Esports** and **Lucent Dev**
