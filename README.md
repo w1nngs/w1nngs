@@ -12,8 +12,8 @@
 ## 🌎 Spoken Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Spanish-Native-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/English-Understood-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Spanish-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/English-007EC6?style=for-the-badge" />
 </p>
 
 ---
